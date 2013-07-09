@@ -1,0 +1,13 @@
+NOTES
+
+My notes from LambdaJam 2012.7.9.
+
+make shell (rails c)
+
+Unit of library abstraction is called an application.  Erlang uses OS metaphors.  Erlang applications can be started.
+
+appmon:start(). - GUI for exploring applications
+
+Erlang is not data centric (like MVC) but process centric.
+
+"Fault tolerance comes form an intolerance of problems."
