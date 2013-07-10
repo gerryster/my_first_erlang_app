@@ -1,5 +1,4 @@
-This project was created at LambdaJam on 2012.7.9.  This project follows the tutorial at
-  [http://e2project.org/tutorial.html]
+This project was created at LambdaJam on 2012.7.9.  This project follows the tutorial at http://e2project.org/tutorial.html .
 
 # Notes
 
@@ -14,3 +13,10 @@ Erlang is not data centric (like MVC) but process centric.
 "Fault tolerance comes form an intolerance of problems."
 
 e2 is an abstraction layer on top of OTP.
+
+# How this app was created
+
+  make new-project appid=mydb appdir=mydb
+  cd mydb/
+  ./rebar get-deps
+  make
