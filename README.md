@@ -1,6 +1,7 @@
-NOTES
+This project was created at LambdaJam on 2012.7.9.  This project follows the tutorial at
+  [http://e2project.org/tutorial.html]
 
-My notes from LambdaJam 2012.7.9.
+# Notes
 
 make shell (rails c)
 
@@ -11,3 +12,5 @@ appmon:start(). - GUI for exploring applications
 Erlang is not data centric (like MVC) but process centric.
 
 "Fault tolerance comes form an intolerance of problems."
+
+e2 is an abstraction layer on top of OTP.
