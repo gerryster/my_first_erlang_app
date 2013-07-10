@@ -16,7 +16,7 @@ e2 is an abstraction layer on top of OTP.
 
 ## How this app was created
 
-```shell
+```bash
 make new-project appid=mydb appdir=mydb
 cd mydb/
 ./rebar get-deps
